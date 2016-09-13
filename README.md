@@ -4,12 +4,6 @@ All-English conferences for **cocoa** developers.
 ## Cocoa-only
 
 ### 2016
-* [Forward Swift](http://forwardswift.com) | **July 25-31** | San Francisco, California
-* [360|iDev](http://360idev.com/) | **August 21-24** | Denver, Colorado
-* [try! Swift NYC](http://www.tryswiftnyc.com) | **September 1-2** | New York, New York
-* [iOS Dev UK](http://www.iosdevuk.com/) | **September 5-8** | Aberystwyth, UK
-* [Swift Conf](http://www.swiftconf.com/) | **September 7-8** | Cologne, Germany
-* [CocoaConf DC](http://cocoaconf.com/dc-2016/home) | **September 9-10** | Herndon, Virginia
 * [NSSpain](http://nsspain.com/) | **September 14-16** | Logroño, Spain
 * [FrenchKit](http://frenchkit.fr/) | **September 23-24** | Paris, France
 * [Functional Swift Conference](http://2016.funswiftconf.com) | **October 1-2** | Budapest, Hungary
@@ -93,6 +87,12 @@ All-English conferences for **cocoa** developers.
 * [AppsWorld](http://www.apps-world.net/northamerica/) | **May 11-12, 2016** | Santa Clara, California
 * [ValioCon](http://valiocon.com/) | **May 19-22, 2016** | San Diego, California
 * [Layers](http://www.bringyourlayers.com/) | **June 13-15, 2016** | San Francisco, California
+* [Forward Swift](http://forwardswift.com) | **July 25-31** | San Francisco, California
+* [360|iDev](http://360idev.com/) | **August 21-24** | Denver, Colorado
+* [try! Swift NYC](http://www.tryswiftnyc.com) | **September 1-2** | New York, New York
+* [iOS Dev UK](http://www.iosdevuk.com/) | **September 5-8** | Aberystwyth, UK
+* [Swift Conf](http://www.swiftconf.com/) | **September 7-8** | Cologne, Germany
+* [CocoaConf DC](http://cocoaconf.com/dc-2016/home) | **September 9-10** | Herndon, Virginia
 
 ### More
 * A [Twitter list](https://twitter.com/NeoNacho/lists/cocoaconferences) with all the conferences made by [Boris Bügling](https://twitter.com/NeoNacho)
