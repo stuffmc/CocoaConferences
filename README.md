@@ -4,6 +4,12 @@ All-English conferences for **cocoa** developers.
 ## Cocoa-only
 
 ### 2016
+* [Forward Swift](http://forwardswift.com) | **July 25-31** | San Francisco, California
+* [360|iDev](http://360idev.com/) | **August 21-24** | Denver, Colorado
+* [try! Swift NYC](http://www.tryswiftnyc.com) | **September 1-2** | New York, New York
+* [iOS Dev UK](http://www.iosdevuk.com/) | **September 5-8** | Aberystwyth, UK
+* [Swift Conf](http://www.swiftconf.com/) | **September 7-8** | Cologne, Germany
+* [CocoaConf DC](http://cocoaconf.com/dc-2016/home) | **September 9-10** | Herndon, Virginia
 * [NSSpain](http://nsspain.com/) | **September 14-16** | Logroño, Spain
 * [FrenchKit](http://frenchkit.fr/) | **September 23-24** | Paris, France
 * [Functional Swift Conference](http://2016.funswiftconf.com) | **October 1-2** | Budapest, Hungary
@@ -12,8 +18,8 @@ All-English conferences for **cocoa** developers.
 * [iOS Conf SG](http://iosconf.sg) | **October 20-21** | Singapore, Singapore
 * [CocoaConf San Jose](http://cocoaconf.com/sanjose-2016/home) | **November 4-5** | San Jose, California
 * [Swift Summit](http://www.swiftsummit.com) | **November 7-8** | San Francisco, California
-* [Swift alps](http://theswiftalps.com/) | **November 10-11** | Crans-Montana, Switzerland
 * [do {iOS}](http://do-ios.com/) | **November 15-16** | Amsterdam, The Netherlands
+* [Swift alps](http://theswiftalps.com/) | **November** | Crans-Montana, Switzerland
 
 ### 2017
 * [dot Swift](http://www.dotswift.io) | **January 27** | Paris, France
@@ -59,12 +65,6 @@ All-English conferences for **cocoa** developers.
 * [Swift With The Best](http://swift.withthebest.com) | **June 25, 2016** | Online
 * [CMD+U Conference](http://cmduconf.com) | **July 8, 2016** | Barcelona, Spain
 * [JailbreakCon](http://www.jailbreakcon.com/) | **July 9-10, 2016** | San Francisco, California
-* [Forward Swift](http://forwardswift.com) | **July 25-31, 2016** | San Francisco, California
-* [360|iDev](http://360idev.com/) | **August 21-24, 2016** | Denver, Colorado
-* [try! Swift NYC](http://www.tryswiftnyc.com) | **September 1-2, 2016** | New York, New York
-* [iOS Dev UK](http://www.iosdevuk.com/) | **September 5-8, 2016** | Aberystwyth, UK
-* [Swift Conf](http://www.swiftconf.com/) | **September 7-8, 2016** | Cologne, Germany
-* [CocoaConf DC](http://cocoaconf.com/dc-2016/home) | **September 9-10, 2016** | Herndon, Virginia
 
 ## Related to Cocoa or Mobile in general
 
