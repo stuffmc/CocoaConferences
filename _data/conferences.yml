@@ -25,6 +25,13 @@
 #
 ##########################
 
+- name: iOSDevUK
+  link: https://www.iosdevuk.com
+  start: 2027-09-06
+  end: 2027-09-09
+  location: 🇬🇧 Aberystwyth, UK
+  cocoa-only: true
+
 - name: ARCtic Conference
   link: https://arcticonference.com
   start: 2027-02-02
